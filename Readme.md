@@ -9,12 +9,13 @@
 </p>
 <img src="/img/login_successfullScreensort.PNG" alt="Login-Screen" height="630" width="1002">
 <hr><br>
- <table>
+ <table border="0" cellpadding="15" cellspacing="1">
  <H6>Pre-Requisites</H6>
-   
-   <tr>Python 3.7</tr>
-   <tr>Python IDE (Pycharm, VS-code, etc.)</tr>
-   <br><br>
-   <tr><li>pip  install PIL</li></tr>
+  <tr>
+    <td><button>Python 3.7</button></td>
+    <td><button>Python IDE (Pycharm, VS-code, etc.)</button></td>
+  </tr>
+
+   <ul > <b><em>pip  install PIL </em></b></ul>
 </table>
 <hr color="blue">
