@@ -15,7 +15,7 @@
     <td><button>Python 3.7</button></td>
     <td><button>Python IDE (Pycharm, VS-code, etc.)</button></td>
   </tr>
-
+<br>
    <ul > <b><em>pip  install PIL </em></b></ul>
 </table>
 <hr color="blue">
