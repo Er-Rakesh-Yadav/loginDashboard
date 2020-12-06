@@ -9,13 +9,15 @@
 </p>
 <img src="/img/login_successfullScreensort.PNG" alt="Login-Screen" height="630" width="1002">
 <hr><br>
- <table border="0" cellpadding="15" cellspacing="1">
+ <table border="5" cellpadding="15" cellspacing="1">
  <H6>Pre-Requisites</H6>
   <tr>
     <td><button>Python 3.7</button></td>
     <td><button>Python IDE (Pycharm, VS-code, etc.)</button></td>
   </tr>
 <br>
+<tr>
    <ul > <b><em>pip  install PIL </em></b></ul>
+</tr>
 </table>
-<hr color="blue">
+<hr>
