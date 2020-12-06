@@ -24,6 +24,8 @@
 <table border="1" align="right" cellpadding="20" cellspacing="5">
 <tr>
 <td><img src="img/login_frame.PNG"></td>
+</tr>
+<tr>
 <td><img src="img/login_insuccessfullMessage.PNG"></td>
 </tr>
 <td><img src="img/login_successfullScreensort.PNG"></td>
