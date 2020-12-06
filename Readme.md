@@ -7,17 +7,15 @@
    <br>
    If you are beginner than you  might be excited to know what I'm all talking about. So without boring you lets real-arena  of coding.
 </p>
-<img src="/img/login_successfullScreensort.PNG" alt="Login-Screen" height="630" width="1002">
+<img src="/img/login_screensort.PNG" alt="Login-Screen" height="630" width="1002">
 <hr><br>
- <table border="5" cellpadding="15" cellspacing="1">
+ <table border="0" cellpadding="15" cellspacing="1">
  <H6>Pre-Requisites</H6>
   <tr>
-    <td><button>Python 3.7</button></td>
-    <td><button>Python IDE (Pycharm, VS-code, etc.)</button></td>
+    <td><Button>Python 3.7</Button></td>
+    <td><Button>Python IDE (Pycharm, VS-code, etc.)</Button></td>
   </tr>
 <br>
-<tr>
    <ul > <b><em>pip  install PIL </em></b></ul>
-</tr>
 </table>
 <hr>
