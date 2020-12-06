@@ -7,7 +7,7 @@
    <br>
    If you are beginner than you  might be excited to know what I'm all talking about. So without boring you, lets jump into <i>the real-arena  of coding skill presentation</i>.
 </p>
-<img src="/img/login_screensort.PNG" alt="Login-Screen" height="630" width="1002">
+<img src="/img/login_screensort.PNG" alt="Login-Screen" height="632" width="1000">
 <hr><br>
  <table border="0" cellpadding="15" cellspacing="1">
  <H6>Pre-Requisites</H6>
@@ -16,7 +16,7 @@
     <td><Button>Python IDE (Pycharm, VS-code, etc.)</Button></td>
   </tr>
 <br>
-   <ul > <b><em>pip  install PIL </em></b></ul>
+   <ul ><em> <b>pip  install PIL </b></em></ul>
 </table>
 <hr>
 <hr>
