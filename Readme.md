@@ -19,3 +19,12 @@
    <ul > <b><em>pip  install PIL </em></b></ul>
 </table>
 <hr>
+<hr>
+<h3><em><strong>Screenshots </strong></em></h3><br>
+<table border="1" align="right" cellpadding="20" cellspacing="5">
+<tr>
+<td><img src="img/login_frame.PNG"></td>
+<td><img src="img/login_insuccessfullMessage.PNG"></td>
+</tr>
+<td><img src="img/login_successfullScreensort.PNG"></td>
+</table>
